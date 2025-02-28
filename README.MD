@@ -1,4 +1,4 @@
-#  NIHAO
+#  GCA
 
 ## This is my paper
 
